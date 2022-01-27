@@ -1,7 +1,8 @@
 # MachineSLATStatusCheck
 Check Processor SLAT (Second Level Address Translation) feature available or not (in C#)
-based on Codeplex project "MachineSLATStatusCheck"
+based on Codeplex project "MachineSLATStatusCheck" used be at
 https://archive.codeplex.com/?p=slatstatuscheck
+but no longer access.
 
 # Original Explanation
 This <Tool> checks whether a machine is SLAT capable to run HYPER-V client or not. Also this takes care of whether Windows Phone 8 Emulator or not.
